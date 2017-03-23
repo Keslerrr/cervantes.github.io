@@ -1,1 +1,1 @@
-* http://cervantes.github.io
+* https://cervantes.github.io
